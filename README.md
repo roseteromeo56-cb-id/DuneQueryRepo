@@ -1,3 +1,4 @@
+![snapshot_dune com_1744930433928](https://github.com/user-attachments/assets/e7592271-a267-4e27-b977-ac556ea9fb1e)
 # Dune Query Repo
 
 A template for creating repos to [manage your Dune queries](https://dune.mintlify.app/api-reference/crud/endpoint/create) and any [CSVs as Dune tables](https://dune.mintlify.app/api-reference/upload/endpoint/upload).
